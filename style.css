@@ -906,6 +906,9 @@ margin-bottom: 2.5rem;
     .nav__link i{
         display: none;
     }
+    .nav__link span{
+        display: block;
+    }
     .nav__button{
         display: inline-block;
     }
